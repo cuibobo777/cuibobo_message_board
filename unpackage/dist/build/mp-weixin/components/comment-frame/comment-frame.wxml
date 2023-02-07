@@ -1,0 +1,1 @@
+<view class="data-v-bad6898a"><view class="commentFrame data-v-bad6898a"><uni-easyinput wx:if="{{e}}" class="r data-v-bad6898a" u-r="uipt" bindconfirm="{{b}}" bindiconClick="{{c}}" u-i="bad6898a-0" bind:__l="__l" bindupdateModelValue="{{d}}" u-p="{{e}}"></uni-easyinput></view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "布告板 · 展览台",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-tabs": "../../uni_modules/vk-uview-ui/components/u-tabs/u-tabs",
+    "blog-item": "../../components/blog-item/blog-item",
+    "uni-load-more": "../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

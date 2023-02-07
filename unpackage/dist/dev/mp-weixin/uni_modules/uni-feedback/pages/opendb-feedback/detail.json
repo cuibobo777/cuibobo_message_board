@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "uni-load-more": "../../../uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-file-picker": "../../../uni-file-picker/components/uni-file-picker/uni-file-picker",
+    "uni-link": "../../../uni-link/components/uni-link/uni-link",
+    "unicloud-db": "../../../../node-modules/@dcloudio/uni-components/lib/unicloud-db/unicloud-db"
+  }
+}

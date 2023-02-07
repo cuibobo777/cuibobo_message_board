@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "文章详情页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-dateformat": "../../uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat",
+    "u-parse": "../../uni_modules/vk-uview-ui/components/u-parse/u-parse",
+    "u-empty": "../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "comment-item": "../../components/comment-item/comment-item",
+    "uni-load-more": "../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "comment-frame": "../../components/comment-frame/comment-frame"
+  }
+}

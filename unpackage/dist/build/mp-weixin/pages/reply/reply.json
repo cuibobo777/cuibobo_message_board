@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "回复",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "comment-item": "../../components/comment-item/comment-item",
+    "uni-load-more": "../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "comment-frame": "../../components/comment-frame/comment-frame"
+  }
+}
